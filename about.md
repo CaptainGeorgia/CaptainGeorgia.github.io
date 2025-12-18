@@ -9,7 +9,7 @@ title: About Me
     <div class="about-intro">
       <h1>About Me</h1>
       <p class="lead">
-        Hello! I'm <strong>[Your Name]</strong>, an Information Systems student passionate about 
+        Hello! I'm <strong>Elvin Imanli</strong>, an Computer Science student passionate about
         leveraging technology to solve business challenges and create meaningful digital experiences.
       </p>
     </div>
