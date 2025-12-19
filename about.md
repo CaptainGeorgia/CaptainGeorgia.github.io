@@ -5,7 +5,7 @@ title: About Me
 
 <section class="about-hero">
   <div class="about-hero-content">
-    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="[Your Name]" class="about-photo">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Elvin Imanli" class="about-photo">
     <div class="about-intro">
       <h1>About Me</h1>
       <p class="lead">
@@ -36,10 +36,10 @@ title: About Me
   <h2><i class="fas fa-graduation-cap"></i> Education</h2>
   <div class="education-card">
     <div class="education-header">
-      <h3>[Placeholder University]</h3>
-      <span class="education-date">Expected Graduation: [Year]</span>
+      <h3>ADA University</h3>
+      <span class="education-date">Expected Graduation: 2028</span>
     </div>
-    <p class="degree">Bachelor of Science in Information Systems</p>
+    <p class="degree">Bachelor of Computer Science</p>
     <div class="coursework">
       <h4>Relevant Coursework:</h4>
       <ul class="coursework-list">
