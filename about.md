@@ -98,7 +98,7 @@ title: About Me
   <div class="experience-item">
     <div class="experience-header">
       <h3>SITE 1101 Course Projects</h3>
-      <span class="experience-date">[Semester, Year]</span>
+      <span class="experience-date">Semestr 1 2025</span>
     </div>
     <p>
       Completed hands-on projects including building this portfolio website using Jekyll and 
@@ -109,21 +109,21 @@ title: About Me
 
   <div class="experience-item">
     <div class="experience-header">
-      <h3>[Club/Organization Name]</h3>
-      <span class="experience-date">[Year - Present]</span>
+      <h3>Ada university</h3>
+      <span class="experience-date">2025-2026</span>
     </div>
     <p>
-      [Describe your role and responsibilities. What did you contribute? What did you learn?]
+      I'm currently studying at ADA University, where I'm pursuing my education in computer science and technology. Through my coursework and hands-on projects, I'm developing strong technical skills in programming languages like Python and C++, while also gaining experience in algorithm design and software development. My time at ADA University has provided me with opportunities to engage in practical learning experiences, including teaching coding concepts to younger students and working on various technical projects.
     </p>
   </div>
 
   <div class="experience-item">
     <div class="experience-header">
-      <h3>[Project/Internship/Activity]</h3>
-      <span class="experience-date">[Date Range]</span>
+      <h3>Physics, Mathematics and Informatics oriented high school</h3>
+      <span class="experience-date">2020-2025</span>
     </div>
     <p>
-      [Describe the experience. What technologies did you use? What was the outcome?]
+      I studied at FRITL, where I developed a strong foundation in computer science and competitive programming. During my time there, I achieved significant recognition in Informatics olympiads, earning medals at both the republic and international levels. These accomplishments demonstrate my problem-solving abilities and deep understanding of algorithms, data structures, and computational thinking.
     </p>
   </div>
 </section>
@@ -167,9 +167,6 @@ title: About Me
   <div class="cta-buttons">
     <a href="https://github.com/{{ site.github_username }}" target="_blank" class="btn btn-primary">
       <i class="fab fa-github"></i> GitHub
-    </a>
-    <a href="mailto:{{ site.email }}" class="btn btn-secondary">
-      <i class="fas fa-envelope"></i> Email Me
     </a>
   </div>
 </section>
