@@ -13,7 +13,7 @@ title: Projects
   <!-- Project 1 -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project1.jpg' | relative_url }}" alt="Project 1: How does hardware work screenshot">
+      <img src="{{ '/assets/images/projects/project1.jpeg' | relative_url }}" alt="Project 1: How does hardware work screenshot">
     </div>
     <div class="project-content">
       <span class="project-date"><i class="fas fa-calendar"></i> 20 October 2025</span>
@@ -35,7 +35,7 @@ title: Projects
   <!-- Project 2: Hour of Code -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/achivement2.jpg' | relative_url }}" alt="Codecademy Achienements">
+      <img src="{{ '/assets/images/projects/achivement2.jpeg' | relative_url }}" alt="Codecademy Achienements">
     </div>
     <div class="project-content">
       <span class="project-date"><i class="fas fa-calendar"></i> 23 October 2025</span>
@@ -57,7 +57,7 @@ title: Projects
   <!-- Project 3: Portfolio Website -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project2.jpg' | relative_url }}" alt="Project 2: Hour of Code">
+      <img src="{{ '/assets/images/projects/project2.jpeg' | relative_url }}" alt="Project 2: Hour of Code">
     </div>
     <div class="project-content">
       <span class="project-date"><i class="fas fa-calendar"></i> 20 December 2025</span>
@@ -78,7 +78,7 @@ title: Projects
   <!-- Project 4: Portfolio Website -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project3.jpg' | relative_url }}" alt="Portfolio website screenshot">
+      <img src="{{ '/assets/images/projects/project3.jpeg' | relative_url }}" alt="Portfolio website screenshot">
     </div>
     <div class="project-content">
       <span class="project-date"><i class="fas fa-calendar"></i> 20 December 2025</span>
