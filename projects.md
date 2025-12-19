@@ -13,26 +13,21 @@ title: Projects
   <!-- Project 1 -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project1.jpg' | relative_url }}" alt="[Project 1 Title] screenshot">
-      <div class="project-overlay">
-        <a href="#" class="btn btn-small">View Project</a>
-      </div>
+      <img src="{{ '/assets/images/projects/project1.jpg' | relative_url }}" alt="Project 1: How does hardware work screenshot">
     </div>
     <div class="project-content">
-      <span class="project-date"><i class="fas fa-calendar"></i> [Month Year]</span>
-      <h3 class="project-title">[Project 1 Title]</h3>
+      <span class="project-date"><i class="fas fa-calendar"></i> 20 October 2025</span>
+      <h3 class="project-title">Project 1: How does hardware work</h3>
       <p class="project-description">
-        [Describe your project here. What problem does it solve? What did you learn? 
-        Keep it to 2-3 sentences that highlight the key aspects of the project.]
+        A project implementing XOR, OR, and AND bitwise operations typically involves building functions or circuits that perform logical operations on binary numbers at the bit level. These operations compare corresponding bits of two operands: AND returns 1 only when both bits are 1, OR returns 1 when at least one bit is 1, and XOR returns 1 when bits differ. Such projects are fundamental in computer science education, teaching how computers process binary data for tasks like encryption, data manipulation, and digital circuit design.
       </p>
       <div class="project-tags">
-        <span class="tag">HTML</span>
-        <span class="tag">CSS</span>
-        <span class="tag">JavaScript</span>
+        <span class="tag">Bitwise operations</span>
+        <span class="tag">Xor/Or/And</span>
       </div>
       <div class="project-links">
-        <a href="#" class="project-link"><i class="fab fa-github"></i> Code</a>
-        <a href="#" class="project-link"><i class="fas fa-external-link-alt"></i> Live Demo</a>
+        <a href="https://www.youtube.com/watch?v=UrdR3Lhp_JM" class="project-link"><i class="fas fa-project1"></i> Xor gate</a>
+        <a href="https://www.youtube.com/watch?v=sVX4yq-9aFw" class="project-link"><i class="fas fa-project1"></i> And/Or gates</a>
       </div>
     </div>
   </article>
@@ -40,26 +35,21 @@ title: Projects
   <!-- Project 2: Hour of Code -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project2.jpg' | relative_url }}" alt="Hour of Code Challenge certificate">
-      <div class="project-overlay">
-        <a href="#" class="btn btn-small">View Certificate</a>
-      </div>
+      <img src="{{ '/assets/images/projects/achivement2.jpg' | relative_url }}" alt="Codecademy Achienements">
     </div>
     <div class="project-content">
-      <span class="project-date"><i class="fas fa-calendar"></i> [Month Year]</span>
-      <h3 class="project-title">Hour of Code Challenge</h3>
+      <span class="project-date"><i class="fas fa-calendar"></i> 23 October 2025</span>
+      <h3 class="project-title">Codecademy</h3>
       <p class="project-description">
-        Completed the Hour of Code challenge, learning fundamental programming concepts 
-        through interactive tutorials. This experience sparked my interest in coding 
-        and problem-solving.
+        Completed the Codecademy, gaining hands-on experience with fundamental programming concepts through interactive tutorials in languages like Python and C++. This introductory experience ignited my passion for coding and computational problem-solving. The challenge provided a solid foundation for understanding how different programming languages approach basic logic and syntax.
       </p>
       <div class="project-tags">
-        <span class="tag">Programming</span>
-        <span class="tag">Logic</span>
+        <span class="tag">C++</span>
+        <span class="tag">Python</span>
         <span class="tag">Problem Solving</span>
       </div>
       <div class="project-links">
-        <a href="#" class="project-link"><i class="fas fa-certificate"></i> Certificate</a>
+        <a href="https://www.codecademy.com/users/eimanli26950/achievements" class="project-link"><i class="fas fa-certificate"></i> Achievements</a>
       </div>
     </div>
   </article>
@@ -67,13 +57,31 @@ title: Projects
   <!-- Project 3: Portfolio Website -->
   <article class="project-card">
     <div class="project-image">
-      <img src="{{ '/assets/images/projects/project3.jpg' | relative_url }}" alt="Portfolio website screenshot">
-      <div class="project-overlay">
-        <a href="https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io" class="btn btn-small">View Code</a>
-      </div>
+      <img src="{{ '/assets/images/projects/project2.jpg' | relative_url }}" alt="Project 2: Hour of Code">
     </div>
     <div class="project-content">
-      <span class="project-date"><i class="fas fa-calendar"></i> [Month Year]</span>
+      <span class="project-date"><i class="fas fa-calendar"></i> 20 December 2025</span>
+      <h3 class="project-title">Hour of Code</h3>
+      <p class="project-description">
+        Led educational workshops teaching fundamental algorithms and computer science concepts to children through interactive activities and tutorials. Guided young learners through programming basics using accessible platforms like Hour of Code, helping them grasp core computational thinking skills. Recognized participants' achievements by awarding certificates upon successful completion of the coding challenges.
+      </p>
+      <div class="project-tags">
+        <span class="tag">Problem Solving</span>
+        <span class="tag">Teaching</span>
+      </div>
+      <div class="project-links">
+        <a href="https://www.youtube.com/watch?v=Ao8wsVjbm0Q" class="project-link"><i class="fab fa-github"></i> Video</a>
+      </div>
+    </div>
+  </article>
+
+  <!-- Project 4: Portfolio Website -->
+  <article class="project-card">
+    <div class="project-image">
+      <img src="{{ '/assets/images/projects/project3.jpg' | relative_url }}" alt="Portfolio website screenshot">
+    </div>
+    <div class="project-content">
+      <span class="project-date"><i class="fas fa-calendar"></i> 20 December 2025</span>
       <h3 class="project-title">Personal Portfolio Website</h3>
       <p class="project-description">
         Built this portfolio website from scratch using Jekyll and GitHub Pages as part 
@@ -87,29 +95,8 @@ title: Projects
         <span class="tag">GitHub Pages</span>
       </div>
       <div class="project-links">
-        <a href="https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io" class="project-link"><i class="fab fa-github"></i> Code</a>
-        <a href="{{ '/' | relative_url }}" class="project-link"><i class="fas fa-external-link-alt"></i> Live Site</a>
-      </div>
-    </div>
-  </article>
-
-  <!-- Project 4: Placeholder for Future -->
-  <article class="project-card project-placeholder">
-    <div class="project-image">
-      <img src="{{ '/assets/images/projects/placeholder.jpg' | relative_url }}" alt="Future project placeholder">
-      <div class="project-overlay">
-        <span class="coming-soon">Coming Soon</span>
-      </div>
-    </div>
-    <div class="project-content">
-      <span class="project-date"><i class="fas fa-clock"></i> In Progress</span>
-      <h3 class="project-title">[Future Project]</h3>
-      <p class="project-description">
-        Stay tuned! I'm always working on new projects to expand my skills and 
-        portfolio. Check back soon for updates.
-      </p>
-      <div class="project-tags">
-        <span class="tag">TBD</span>
+        <a href="https://github.com/CaptainGeorgia/CaptainGeorgia.github.io" class="project-link"><i class="fab fa-github"></i> Code</a>
+        <a href="https://captaingeorgia.github.io/" class="project-link"><i class="fas fa-external-link-alt"></i> Live Site</a>
       </div>
     </div>
   </article>
