@@ -5,7 +5,7 @@ title: About Me
 
 <section class="about-hero">
   <div class="about-hero-content">
-    <img src="{{ '/assets/images/profile.jpeg' | relative_url }}" alt="Elvin Imanli" class="about-photo">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Elvin Imanli" class="about-photo">
     <div class="about-intro">
       <h1>About Me</h1>
       <p class="lead">
