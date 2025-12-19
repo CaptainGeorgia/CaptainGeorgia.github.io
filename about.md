@@ -25,10 +25,7 @@ title: About Me
     functional and user-friendly.
   </p>
   <p>
-    My goal is to become a skilled professional who can bridge the gap between technical teams 
-    and business stakeholders. I'm particularly interested in [web development / data analytics / 
-    cybersecurity / your interest here] and hope to contribute to projects that make a positive 
-    impact.
+    My goal is to become a skilled technologist who can bridge the gap between complex technical implementations and strategic business objectives. Drawing from my success in international Informatics olympiads and my education at ADA University, I'm particularly interested in algorithm optimization, software architecture, and developing efficient systems. I believe that the best solutions emerge when technical excellence meets clear communication and user-centered thinking. Beyond writing code, I'm passionate about mentoring others, as demonstrated through my work teaching computer science fundamentals to young learners. I hope to contribute to projects that use computational thinking and innovative technology to make a positive impact on communities and industries.
   </p>
 </section>
 
@@ -98,7 +95,7 @@ title: About Me
   <div class="experience-item">
     <div class="experience-header">
       <h3>SITE 1101 Course Projects</h3>
-      <span class="experience-date">Semestr 1 2025</span>
+      <span class="experience-date">First Semestr in 2025 year</span>
     </div>
     <p>
       Completed hands-on projects including building this portfolio website using Jekyll and 
@@ -109,7 +106,7 @@ title: About Me
 
   <div class="experience-item">
     <div class="experience-header">
-      <h3>Ada university</h3>
+      <h3>ADA university</h3>
       <span class="experience-date">2025-2026</span>
     </div>
     <p>
@@ -136,7 +133,7 @@ title: About Me
   <div class="interests-grid">
     <div class="interest-item">
       <i class="fas fa-book"></i>
-      <span>Reading tech blogs</span>
+      <span>Reading technology blogs</span>
     </div>
     <div class="interest-item">
       <i class="fas fa-gamepad"></i>
@@ -148,15 +145,7 @@ title: About Me
     </div>
     <div class="interest-item">
       <i class="fas fa-hiking"></i>
-      <span>Outdoor activities</span>
-    </div>
-    <div class="interest-item">
-      <i class="fas fa-camera"></i>
-      <span>Photography</span>
-    </div>
-    <div class="interest-item">
-      <i class="fas fa-coffee"></i>
-      <span>Exploring coffee shops</span>
+      <span>Programming</span>
     </div>
   </div>
 </section>
